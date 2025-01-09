@@ -1,0 +1,23 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "chips",
+        "options": [
+          {
+            "text": " "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": " "
+          },
+          {
+            "text": " "
+          }
+        ]
+      }
+    ]
+  ]
+}
