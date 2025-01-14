@@ -1,6 +1,6 @@
 ---
 title: "flaroti-dialogflow"
-categories: simpanan kode publik
+descriptin: Repositori kode simpanan untuk proyek flaroti
 tags: [ai, chatbot, simple-project, dialogflow, custompayload]
 ---
 
