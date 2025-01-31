@@ -1,5 +1,5 @@
 > [!NOTE]
-> [#1](github.com/aflacake/dialogflow-flaroti/issue) Saluran issue untuk penemuan kutu dimana saja "aflacake/flaroti-dialogfow"
+> [#1](https://github.com/aflacake/flaroti-dialogflow/issues/1#issue-2820806364) Saluran issue untuk penemuan kutu dimana saja "aflacake/flaroti-dialogfow"
 
 >[!NOTE]
 > Saluran kontribusi untuk penemuan dimana saja "aflacake/flaroti-dialogfow"
