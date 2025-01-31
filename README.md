@@ -2,7 +2,7 @@
 Kumpulan pesan kaya respon untuk CustomPayload dibuat dengan `.json` bagi Chat AI: Fla Roti - open source.
 
 ## Dokumentasi
-Bukan dipindahkan, dialihkan. Selengkapnya lihat pengelompokan direktori bagi dokumen temukan di [dok](https://github.com/aflacake/dialogflow-flaroti/dok/).
+Bukan dipindahkan, dialihkan. Selengkapnya lihat pengelompokan direktori bagi dokumen temukan di [dok](https://github.com/aflacake/flaroti-dialogflow/tree/0c26c51fe20045551e9450cd1f6faf53073ed01b/dok).
 ### Peta dok
 ```txt
 aflacake/dialogflow-flaroti/
