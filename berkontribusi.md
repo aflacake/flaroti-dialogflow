@@ -1,5 +1,7 @@
-> Saluran issue untuk penemuan kutu dimana saja "aflacake/flaroti-dialogfow"
+> [!NOTE]
+> [#1](github.com/aflacake/dialogflow-flaroti/issue) Saluran issue untuk penemuan kutu dimana saja "aflacake/flaroti-dialogfow"
 
+>[!NOTE]
 > Saluran kontribusi untuk penemuan dimana saja "aflacake/flaroti-dialogfow"
 
 
@@ -15,7 +17,7 @@
     <br />
   Yippee- berhasil!
 
-### Pemetaan
+### Pemetaan Branch
 ```txt
 branch-
       |
