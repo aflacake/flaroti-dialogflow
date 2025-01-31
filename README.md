@@ -18,4 +18,4 @@ artikel  konten/
 ```
 ## Berkontribusi
 Fork me? Pull request me? Merge me?
-Bukan dipindahkan, dialihkan. Selengkapnya di [berkontribusi](https://github.com/aflacake/dialogflow-flaroti/berkontribusi.md) serta catatan untuk kontributor disediakan dengan format `.txt`.
+Bukan dipindahkan, dialihkan. Selengkapnya di [berkontribusi](https://github.com/aflacake/flaroti-dialogflow/blob/9193b6a243e5d25afe3d03b5f05ee20c99856482/berkontribusi.md) serta catatan untuk kontributor disediakan dengan format `.txt`.
