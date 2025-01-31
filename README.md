@@ -1,8 +1,8 @@
-# flaroti-dialogflow
+# Fla Roti Dialogflow
 Kumpulan pesan kaya respon untuk CustomPayload dibuat dengan `.json` bagi Chat AI: Fla Roti - open source.
 
 ## Dokumentasi
-Bukan dipindahkan, dialihkan. Selengkapnya lihat pengelompokan direktori bagi dokumen temukan di [dok](github.com/aflacake/dialogflow-flaroti/dok/).
+Bukan dipindahkan, dialihkan. Selengkapnya lihat pengelompokan direktori bagi dokumen temukan di [dok](https://github.com/aflacake/dialogflow-flaroti/dok/).
 ### Peta dok
 ```txt
 aflacake/dialogflow-flaroti/
@@ -18,4 +18,4 @@ artikel  konten/
 ```
 ## Berkontribusi
 Fork me? Pull request me? Merge me?
-Bukan dipindahkan, dialihkan. Selengkapnya di [berkontribusi](github.com/aflacake/dialogflow-flaroti/berkontribusi.md) serta catatan untuk kontributor disediakan dengan format `.txt`.
+Bukan dipindahkan, dialihkan. Selengkapnya di [berkontribusi](https://github.com/aflacake/dialogflow-flaroti/berkontribusi.md) serta catatan untuk kontributor disediakan dengan format `.txt`.
