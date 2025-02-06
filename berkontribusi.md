@@ -18,20 +18,12 @@
   Yippee- berhasil!
 
 ### Pemetaan Branch
-```txt
-branch-
-      |
-      |
-      main --
-            |
-            second (penerus)
-            |
-            three (beta)
-            |
-            four (alpha)
-            |
-            <set as you might like>
-```
+- branch
+  - main
+  - second (penerus)
+    - three (beta) --N/A
+    - four (alpha) --N/A
+    - <set as you might like> # setel sesuai keinginanmu (REKOMENDASI)
 ### Rantai percakapan
 ```txt
 Klien <---> Fla Roti (bagus)
@@ -46,4 +38,11 @@ Teks (sangat bagus)
 Mikrophone (tidak tersedia)
 Percakapan berlanjut (bagus)
 Pesan Kaya (sangat bagus)
+```
+# Pesan meninggalkan Tarik Permintaan
+```txt
+Perubahan:
+- Alinea: #line 1, line 4, line 7
+- Isue: #sertakan isu berkaitan, membukanya lebih bagus!
+- Tagar: #bug, echangement, good first, dan lainnya. Tag boleh lebih dari 1
 ```
