@@ -1,5 +1,7 @@
+<img src="https://raw.githubusercontent.com/aflacake/flaroti-dialogflow/second/img/donat.png" width="200" height="200" alt="Fla Roti Logo"/>
+
 # Fla Roti Dialogflow
-Kumpulan pesan kaya respon untuk CustomPayload dibuat dengan `.json` bagi Chat AI: Fla Roti - open source.
+Kumpulan pesan kaya respon untuk CustomPayload dibuat dengan `.json` bagi Chat AI: Fla Roti - open source. Dipelihara langsung di Dialogflow, backup ruang ada disini, beberapa kode mungkin usang dan tidak berfungsi sebagaimana semestinya.
 
 ## Dokumentasi
 Bukan dipindahkan, dialihkan. Selengkapnya lihat pengelompokan direktori bagi dokumen temukan di [dok](https://github.com/aflacake/flaroti-dialogflow/tree/0c26c51fe20045551e9450cd1f6faf53073ed01b/dok).
