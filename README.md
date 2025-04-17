@@ -1,3 +1,5 @@
+<p align="right">Bahasa: Indonesia</p>
+
 <img src="https://raw.githubusercontent.com/aflacake/flaroti-dialogflow/second/img/donat.png" width="200" height="200" alt="Fla Roti Logo"/>
 
 # Fla Roti Dialogflow
