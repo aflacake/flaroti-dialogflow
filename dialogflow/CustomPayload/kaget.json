@@ -1,0 +1,17 @@
+{
+  "richContent": [
+    [
+      {
+        "options": [
+          {
+            "text": "Huhh"
+          },
+          {
+            "text": "Kaget"
+          }
+        ],
+        "type": "chips"
+      }
+    ]
+  ]
+}
