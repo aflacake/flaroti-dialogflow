@@ -1,5 +1,7 @@
-> Saluran issue untuk penemuan kutu dimana saja "aflacake/flaroti-dialogfow"
+> [!NOTE]
+> [#1](https://github.com/aflacake/flaroti-dialogflow/issues/1#issue-2820806364) Saluran issue untuk penemuan kutu dimana saja "aflacake/flaroti-dialogfow"
 
+>[!NOTE]
 > Saluran kontribusi untuk penemuan dimana saja "aflacake/flaroti-dialogfow"
 
 
@@ -15,21 +17,13 @@
     <br />
   Yippee- berhasil!
 
-### Pemetaan
-```txt
-branch-
-      |
-      |
-      main --
-            |
-            second (penerus)
-            |
-            three (beta)
-            |
-            four (alpha)
-            |
-            <set as you might like>
-```
+### Pemetaan Branch
+- branch
+  - main
+  - second (penerus)
+    - three (beta) --N/A
+    - four (alpha) --N/A
+    - <set as you might like> # setel sesuai keinginanmu (REKOMENDASI)
 ### Rantai percakapan
 ```txt
 Klien <---> Fla Roti (bagus)
@@ -44,4 +38,11 @@ Teks (sangat bagus)
 Mikrophone (tidak tersedia)
 Percakapan berlanjut (bagus)
 Pesan Kaya (sangat bagus)
+```
+# Pesan meninggalkan Tarik Permintaan
+```txt
+Perubahan:
+- Alinea: #line 1, line 4, line 7
+- Isue: #sertakan isu berkaitan, membukanya lebih bagus!
+- Tagar: #bug, echangement, good first, dan lainnya. Tag boleh lebih dari 1
 ```
